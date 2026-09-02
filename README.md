@@ -22,6 +22,12 @@ This project analyzes telecom customer data to:
 
 ---
 
+## Live Application
+
+ **[Try the live Streamlit application](https://customer-churn-analysis-prediction-lxmv8fuz7dlkcvoticrdwy.streamlit.app/)**
+
+![Customer Churn Prediction App](images/appscreenshot.png)
+
 ## Objectives
 
 ### Primary Objective
